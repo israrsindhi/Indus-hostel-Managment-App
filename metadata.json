@@ -1,0 +1,5 @@
+{
+  "name": "Indus Boys Hostel Sukkur - Management Portal",
+  "description": "A comprehensive hostel management application for Indus Boys Hostel Sukkur, featuring room and student management, billing with PDF receipts, a notice board, automated notifications, and a Gemini-powered smart assistant.",
+  "requestFramePermissions": []
+}
